@@ -1,5 +1,12 @@
 # blitz
 
+## 2.0.0-beta.26
+
+### Patch Changes
+
+- 38d945a3f: The issue is that the version provided, "13.2", is not a valid SemVer version. A valid SemVer version must have three components: major, minor, and patch (e.g., "13.2.0").
+  - @blitzjs/generator@2.0.0-beta.26
+
 ## 2.0.0-beta.25
 
 ### Patch Changes
